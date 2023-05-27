@@ -1,0 +1,121 @@
+/* Import Google Font || Hing Shiliguri font */
+
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@400;500;600&family=Poppins:wght@200;300;400;500&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+
+body {
+    font-family: 'Hind Siliguri', sans-serif;
+    height: 100vh;
+    background: #063b66;    
+    
+}
+
+
+/* MenuBar Design */
+nav,
+footer {
+    width: 100%;
+    height: 70px;
+    background: #00857a;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    width: 94%;
+    max-width: 768px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.brand {
+    text-align: left;
+    font-size: 1.5rem;
+}
+
+.menue ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menue ul li a {
+    margin: 0 6px;
+}
+
+.menue ul li a,
+.brand a {
+    color: #fff;
+}
+
+/* Main Are Design */
+main {
+    height: 84vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+main .container{
+    margin: 20px auto;
+}
+main .title{
+    width: 100%;
+    display: flex;
+    justify-items: center;
+    align-content: center;
+    flex-direction: column;
+}
+main h4, main h5{
+    color: #fff;
+    text-align: center;
+    
+}
+/* Form Design */
+form{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+form label{
+    color: #fff;
+    margin-right: 10px;
+}
+form input{
+    padding: 10px;
+    background: #fff;
+    border-radius: 10px;
+    border: 0;
+    color: #004f8f;
+}
+.output{
+    width: 300px;
+    height: 200px;
+    background: #fff;
+    margin: 0 auto;
+    border-radius: 10px;
+    overflow: hidden;
+}
+/* Footer Design */
+footer .container {
+    display: flex;
+    justify-content: center;
+}
+
+footer p {
+    text-align: center;
+}
