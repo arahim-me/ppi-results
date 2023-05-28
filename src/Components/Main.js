@@ -33,8 +33,9 @@ function Main() {
 
                                     <div className='container'>
                                         <h4 key={result.id}>Roll : {result.roll}</h4>
-                                        <h4>GPA : {result.grade}</h4>
                                         <h4>Status : {result.status}</h4>
+                                        <h4>GPA : {result.grade}</h4>
+                                        <h4>{result.sub }</h4>
                                     </div>
                                 ))
                         }

@@ -113,16 +113,21 @@ form input{
 }
 .output .container{
     height: 155px;
+    margin-top: 15px;
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
-    
+    justify-content: space-between;
+    align-items: center;  
 
 }
 .output h4{
   color: #00857a;
-  margin: 8px 0;
+  margin: 3px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ 
 }
 /* Footer Design */
 footer .container {
