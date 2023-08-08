@@ -1,0 +1,79 @@
+[
+    {
+        "img": "https://scontent.fdac24-4.fna.fbcdn.net/v/t1.6435-9/122285308_992404017927122_8434560353596215610_n.jpg?_nc_cat=103&cb=99be929b-59f725be&ccb=1-7&_nc_sid=174925&_nc_eui2=AeFJ-voQQW1CuC37Ozqle_rAigmcbFgOQkuKCZxsWA5CSyy9Y9GabHgEWxu-xuXe3Vkaon_LplJNE-LCJ9yphQSe&_nc_ohc=mIGESy7kYT0AX-AE3VJ&_nc_ht=scontent.fdac24-4.fna&oh=00_AfBhaI3gu2NhrqtHS7PFLVGdp__fNuwX7lcvrZwfzqDUzQ&oe=64FA1763",
+        "name": "Abdur Rahim",
+        "status": "Team-Leader",
+        "roll": "527331",
+        "group": "A1"
+    },
+    {
+        "img": "https://raw.githubusercontent.com/arahim-me/backtick-db/main/icon/technologies/database.png",
+        "name": "Abdullah",
+        "status": "Team-Member",
+        "roll": "527327",
+        "group": "A1"
+    },
+    {
+        "img": "https://raw.githubusercontent.com/arahim-me/backtick-db/main/icon/technologies/javascript.png",
+        "name": "Rumon Sheikh",
+        "status": "Team-Member",
+        "roll": "527367",
+        "group": "B1"
+    },
+    {
+        "img": "https://raw.githubusercontent.com/arahim-me/backtick-db/main/icon/technologies/reactjs.png",
+        "name": "Tahsin Mollik",
+        "status": "Team-Member",
+        "roll": "527334",
+        "group": "A1"
+    },
+    {
+        "img": "https://raw.githubusercontent.com/arahim-me/backtick-db/main/icon/technologies/database.png",
+        "name": "Md Emon",
+        "status": "Team-Member",
+        "roll": "527357",
+        "group": "B1"
+    },
+    {
+        "img": "https://raw.githubusercontent.com/arahim-me/backtick-db/main/icon/technologies/javascript.png",
+        "name": "KM Anik Hasan",
+        "status": "Team-Member",
+        "roll": "527365",
+        "group": "B1"
+    },
+    {
+        "img": "https://raw.githubusercontent.com/arahim-me/backtick-db/main/icon/technologies/reactjs.png",
+        "name": "Rifat Islam",
+        "status": "Team-Member",
+        "roll": "527305",
+        "group": "B1"
+    },
+    {
+        "img": "https://raw.githubusercontent.com/arahim-me/backtick-db/main/icon/technologies/database.png",
+        "name": "Md Maruf Shak",
+        "status": "Team-Member",
+        "roll": "527311",
+        "group": "B1"
+    },
+    {
+        "img": "https://raw.githubusercontent.com/arahim-me/backtick-db/main/icon/technologies/javascript.png",
+        "name": "Redwan Hasan Ovi",
+        "status": "Team-Member",
+        "roll": "527318",
+        "group": "A1"
+    },
+    {
+        "img": "https://raw.githubusercontent.com/arahim-me/backtick-db/main/icon/technologies/reactjs.png",
+        "name": "Md Sohanur",
+        "status": "Team-Member",
+        "roll": "527469",
+        "group": "A1"
+    },
+    {
+        "img": "https://raw.githubusercontent.com/arahim-me/backtick-db/main/icon/technologies/database.png",
+        "name": "Topu Sen",
+        "status": "Team-Member",
+        "roll": "527471",
+        "group": "A1"
+    }
+]
